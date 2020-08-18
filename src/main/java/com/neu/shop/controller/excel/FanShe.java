@@ -25,7 +25,6 @@ public class FanShe {
             System.out.println(name);
             String type = field.getType().getSimpleName();
             System.out.println(type);
-
         }
     }
 }
